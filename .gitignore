@@ -1,0 +1,7 @@
+settings
+dbg
+*.scvd
+*.uvoptx
+*.uvprojx
+*.icf
+*.uvguix.*
